@@ -14,24 +14,24 @@ Source: Self-recorded | Type: Structured | Format: Excel or may be CSV | Key Fea
 
 
 // Project Plan
-1. **Data Collection and Preprocessing
+1. Data Collection and Preprocessing
    - Exporting Spotify listening history.
    - Organizing work hours data.
    - Cleaning and formatting datasets.
 
-2. **Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
    - Analyzing distributions and identifying trends.
    - Visualizing listening patterns during work hours versus leisure.
 
-3. **Correlation Analysis
+3. Correlation Analysis
    - Using statistical methods to measure the correlation between work hours and listening habits.
    - Identifying significant patterns or anomalies.
 
-4. **Visualization and Insights
+4. Visualization and Insights
    - Creating visual representations (e.g., heatmaps, scatter plots).
    - Summarizing key insights.
 
-5. **Finalization and Documentation
+5. Finalization and Documentation
    - Compiling results into a clear and concise report.
    - Ensuring the repository is well-documented and ready for grading.
 
