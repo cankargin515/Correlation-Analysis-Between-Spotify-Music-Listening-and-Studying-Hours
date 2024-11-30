@@ -7,9 +7,8 @@ In my daily life, music plays an essential role, and Spotify is my go-to platfor
 // Dataset Description
 The project involves two main datasets :
 
-1)Spotify Listening History |
+1) Spotify Listening History |
 Source: Spotify's data export feature | Type: Structured | Format: JSON/CSV | Key Features: - Track name, artist and genre.  - Start and end times of each listening session.
-
 2) Work Hours Log |
 Source: Self-recorded | Type: Structured | Format: Excel or may be CSV | Key Features: Date, start and end times, task type, and duration.
 
