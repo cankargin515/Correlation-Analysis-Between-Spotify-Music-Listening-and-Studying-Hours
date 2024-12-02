@@ -18,9 +18,9 @@ Source: Self-recorded | Type: Structured | Format: Excel or may be CSV | Key Fea
 # Project Plan
 
 1. Data Collection and Preprocessing
-   a)Exporting Spotify listening history.
-   b)Organizing work hours data.
-   c)Cleaning and formatting datasets.
+-Exporting Spotify listening history.
+-Organizing work hours data.
+-Cleaning and formatting datasets.
 
 2. Exploratory Data Analysis (EDA)
    a)Analyzing distributions and identifying trends.
