@@ -17,7 +17,7 @@ Source: Self-recorded | Type: Structured | Format: Excel or may be CSV | Key Fea
 
 # Project Plan
 
-1. Data Collection and Preprocessing:
+   1. Data Collection and Preprocessing:
    
   -Exporting Spotify listening history.
   
