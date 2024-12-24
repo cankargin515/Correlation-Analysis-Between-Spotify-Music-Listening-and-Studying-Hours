@@ -3,7 +3,7 @@ Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Te
 
 # Project Description
 
-In my daily life, music plays an essential role, and Spotify is my go-to platform for listening. Lately, with numerous assignments and exams demanding my focus, I've been exploring ways to enhance my productivity during study sessions. This has led me to consider whether listening to music has an impact on the amount of time I dedicate to studying. The goal of this project is to analyze and identify any potential correlation between music listening habits and the duration or efficiency of my study hours.
+Although 
 
 # Dataset Description
 
@@ -19,7 +19,7 @@ Source: Self-recorded | Type: Structured | Format: Excel file. Then converting i
 
 1. Data Collection and Preprocessing:
    
-  -Exporting Spotify listening history.
+  -Exporting health data in terms of .
   
   -Organizing work hours data.
   
@@ -29,11 +29,11 @@ Source: Self-recorded | Type: Structured | Format: Excel file. Then converting i
 
    -Analyzing distributions and identifying trends.
    
-   -Visualizing listening patterns during work hours versus leisure.
+   -Visualizing step numbers patterns during work hours versus leisure.
 
 3. Correlation Analysis:
    
-   -Using statistical methods to measure the correlation between work hours and listening habits.
+   -Using statistical methods to measure the correlation between work hours and step counts.
    
    -Identifying significant patterns or anomalies.
 
