@@ -9,10 +9,10 @@ In my daily life, music plays an essential role, and Spotify is my go-to platfor
 
 The project involves two main datasets :
 
-1) Step Counts |
-Source: Spotify's data export feature, Spotify's Data Privacy Tool | Type: Structured | Format: JSON/CSV | Key Features: - Track name, artist and genre.  - Start and end times of each listening session.
+1) Step Counts by Numbers by Day by Day |
+Source: Apple Health Data Application | Type: Structured | Format: XML file. Then converting this XML file to the CSV file | Key Features: 
 2) Work Hours Log |
-Source: Self-recorded | Type: Structured | Format: Excel or may be CSV | Key Features: Date, start and end times, task type, and duration.
+Source: Self-recorded | Type: Structured | Format: Excel file. Then converting it to CSV | Key Features: Date, start and end times, task type, and duration.
 
 
 # Project Plan
