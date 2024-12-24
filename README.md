@@ -3,14 +3,14 @@ Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Te
 
 # Project Description
 
-Although 
+Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and my working hours. In order not to change my link URL, I note this fact in here.
 
 # Dataset Description
 
 The project involves two main datasets :
 
 1) Step Counts by Numbers by Day by Day |
-Source: Apple Health Data Application | Type: Structured | Format: XML file. Then converting this XML file to the CSV file | Key Features: 
+Source: Apple Health Data Application | Type: Structured | Format: XML file. Then converting this XML file to the CSV file | Key Features: Step counts, 
 2) Work Hours Log |
 Source: Self-recorded | Type: Structured | Format: Excel file. Then converting it to CSV | Key Features: Date, start and end times, task type, and duration.
 
