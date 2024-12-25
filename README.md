@@ -3,7 +3,7 @@ Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Te
 
 # Project Description
 
-Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and weather data. In order not to change my link URL, I note this fact in here. To start with, walking plays an essential role in my daily life. Whenever I have a free time, I dedicate myself to walk. Walking is essential for both my physical and mental health. In this project, I'm going to analyse 
+Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and weather data. In order not to change my link URL, I note this fact in here. To start with, walking plays an essential role in my daily life. Whenever I have a free time, I dedicate myself to walk. Walking is essential for both my physical and mental health. In this project, I'm going to analyse whether weather conditions affect my daily step conditions. In other words, I will analyse correlation between weather data and my step counts.
 
 # Dataset Description
 
@@ -11,8 +11,8 @@ The project involves two main datasets :
 
 1) Step Counts by Numbers by Day by Day |
 Source: Apple Health Data Application | Type: Structured | Format: XML file. Then converting this XML file to the CSV file | Key Features: Step counts by date, start and end times.
-2) Work Hours Log |
-Source: Self-recorded | Type: Structured | Format: Excel file. Then converting it to CSV | Key Features: Date, start and end times, task type, and duration.
+2) Weather Data |
+Source: Open Weather API | Type: Structured | Format: Excel file. Then converting it to CSV | Key Features: Date, start and end times, task type, and duration.
 
 
 # Project Plan
@@ -21,7 +21,7 @@ Source: Self-recorded | Type: Structured | Format: Excel file. Then converting i
    
   -Exporting health data in terms of my daily and hourly step counts.
   
-  -Organizing work hours data.
+  -Organizing weather data.
   
   -Cleaning and formatting datasets.
 
@@ -33,7 +33,7 @@ Source: Self-recorded | Type: Structured | Format: Excel file. Then converting i
 
 3. Correlation Analysis:
    
-   -Using statistical methods to measure the correlation between work hours and step counts.
+   -Using statistical methods to measure the correlation between my ste.
    
    -Identifying significant patterns or anomalies.
 
