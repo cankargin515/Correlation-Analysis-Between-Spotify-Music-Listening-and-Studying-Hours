@@ -3,7 +3,7 @@ Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Te
 
 # Project Description
 
-Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and weather data. In order not to change my link URL, I note this fact in here. To start with, walking plays an essential role in my daily life. Whenever I have a free time, I dedicate myself to walk. Walking is essential for both my physical and mental health. In this project, I'm going to analyse whether cond
+Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and weather data. In order not to change my link URL, I note this fact in here. To start with, walking plays an essential role in my daily life. Whenever I have a free time, I dedicate myself to walk. Walking is essential for both my physical and mental health. In this project, I'm going to analyse 
 
 # Dataset Description
 
