@@ -3,7 +3,7 @@ Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Te
 
 # Project Description
 
-Although my title is Correlation analysis between spotify music and studying hours, I decided to change project topic because my extended music history DID NOT RECEIVE to me. So my new project topic is correlation analysis between my step counts and weather data. In order not to change my link URL, I note this fact in here. To start with, walking plays an essential role in my daily life. Whenever I have a free time, I dedicate myself to walk. Walking is essential for both my physical and mental health. In this project, I'm going to analyse whether weather conditions affect my step conditions. In other words, I will analyse correlation between weather data and my step counts. 
+Walking plays a pivotal role in my daily life. Regardless of my mood or the outside factors like weather, I prioritize walking and strive to increase my step count, as it benefits both my mental and physical well-being. For a long time, I wondered if factors like weather conditions influence my walking habits and overall step counts. Through this project, I aimed to explore any correlations between my steps and meteorological data. In the process, I gained valuable insights into my own behavior and how external factor ( in this project, weather elements) might shape my routine.
 
 # Dataset Description
 
